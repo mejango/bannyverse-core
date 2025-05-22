@@ -1,3 +1,5 @@
+[![revnet badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapp.revnet.eth.sucks%2Fapi%2Fdata%2Fshields%3FprojectId%3D4%26chainId%3D1&query=%24.message&label=Banny%20Network&cacheSeconds=3600)](https://app.revnet.eth.sucks/base:4)
+
 # Banny Looks
 
 ## Install
